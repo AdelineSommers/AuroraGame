@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.game
+Exec=/usr/bin/ru.auroraos.game
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=AccessSecurityLog;LogSecurityEvents;Sensors;SecureStorage;PushNotifications;DeviceInfo;Audio;Bluetooth;Camera;Internet;Location;MediaIndexing;Microphone;NFC;WebView
+OrganizationName=ru.auroraos
+ApplicationName=game
+ExecDBus=/usr/bin/ru.auroraos.game
